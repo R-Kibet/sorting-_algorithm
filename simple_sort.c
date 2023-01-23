@@ -27,7 +27,9 @@ int main ()
 	{
 		printf("%d\t" , arr[i]);
 	}
+
 	printf("\n");
+
 	for (i = 0; i < n; i++)
 	{
 		for (j = 1 + i ; j < n ; j++)
